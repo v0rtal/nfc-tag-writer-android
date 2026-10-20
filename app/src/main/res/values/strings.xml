@@ -1,0 +1,10 @@
+<resources>
+    <string name="rewrite_unlocked">Rewrite an unlocked tag</string>
+    <string name="permanent_lock">Permanently lock after writing</string>
+    <string name="resume_setup">Resume an interrupted setup from this app</string>
+    <string name="no_nfc">This device has no NFC hardware.</string>
+    <string name="enable_nfc">Enable NFC in Android settings to continue.</string>
+    <string name="nfc_available">NFC available — tap when prompted</string>
+    <string name="written_details">UID: %1$s\nKeys updated and verified.\nRemove the tag, choose Verify tag, then tap again.</string>
+    <string name="verified_details">UID: %1$s\nRead counter: %2$d\n%3$s</string>
+</resources>
